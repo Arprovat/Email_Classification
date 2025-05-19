@@ -55,9 +55,8 @@ Metric	Score
 🖥️ Demo Interface
 
 <div display='flex'>
-  <img src="https://i.ibb.co/v8tQ1FN/screencapture-localhost-5173-2025-05-19-20-28-40.png" alt="screencapture-localhost-5173-2025-05-19-20-28-40" width='330' hight='500' border="0">
-  <img src="https://i.ibb.co/Kp46Xwxm/screencapture-localhost-5173-2025-05-19-20-33-04-1.png" alt="screencapture-localhost-5173-2025-05-19-20-33-04-1" width='330' hight='500' border="0">
-  <img src="https://i.ibb.co/s92t5bBS/image.png" alt="image"  width='330' hight='500' border="0">
+  <img src="https://i.ibb.co/v8tQ1FN/screencapture-localhost-5173-2025-05-19-20-28-40.png" alt="screencapture-localhost-5173-2025-05-19-20-28-40" width='400' hight='500' border="0">
+  <img src="https://i.ibb.co/Kp46Xwxm/screencapture-localhost-5173-2025-05-19-20-33-04-1.png" alt="screencapture-localhost-5173-2025-05-19-20-33-04-1" width='400' hight='500' border="0">
 </div>
 
 Made with ❤️ by Md. Abdur Rahman |
